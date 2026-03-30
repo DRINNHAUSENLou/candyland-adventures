@@ -36,6 +36,14 @@ Les modèles 3D ont été réalisés en amont du développement avec <b>Blender<
 Le projet a été entièrement réalisé avec <b>Unity</b> et programmé en <b>C#</b>.
 </p>
 
+<h2 align="left">Aperçu de quelques visuels modélisés sur Blender</h2>
+
+<p align="left">
+  <img width="30%" alt="glace" src="https://github.com/user-attachments/assets/c75743ca-bcb3-4d9b-a7d8-43cefedc3659" />
+  <img width="30%" alt="macaron" src="https://github.com/user-attachments/assets/0efc96d4-d404-498b-b7ae-f75a66dac67d" />
+  <img width="30%" alt="sucette" src="https://github.com/user-attachments/assets/c5c1d151-5264-49a6-840a-cb2ad726c82a" />
+</p>
+
 <h2 align="left">Vidéo du jeu</h2>
 
 <p align="left">
@@ -45,12 +53,7 @@ Ci-dessous une vidéo présentant le gameplay du jeu :
 <p align="left">
 https://youtu.be/OVarbiuKfJ8
 </p>
-
-<h2 align="left">Aperçu</h2>
-
-<p align="left">
-<img width="638" height="354" alt="screenshot" src="TON_IMAGE_ICI" />
-</p>
+![sddefault](https://github.com/user-attachments/assets/ad668e65-d61f-4ca2-b37d-cdf251c1650b)
 
 <h3 align="left">Technologies utilisées :</h3>
 
